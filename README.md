@@ -1,13 +1,12 @@
-beamer_ucph
+LaTex Beamer template for University of Copenhagen, Science
 ===========
 
-LaTex Beamer template for copenhagen university
+A small simple template for beamer presentation using UCPH logo and colours.
+
+![Title Screenshot](https://github.com/charnley/beamer_ucph/raw/master/screenshot_title.png)
+![page  Screenshot](https://github.com/charnley/beamer_ucph/raw/master/screenshot_page.png)
 
 
-
-
-
-https://www.youtube.com/watch?v=XTp8EDnT9Mk
-
+Worth watching regarding talks: https://www.youtube.com/watch?v=XTp8EDnT9Mk
 
 
